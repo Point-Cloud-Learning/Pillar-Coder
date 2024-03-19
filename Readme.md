@@ -25,12 +25,12 @@
 
 ----------------------------
 
-|     ModleNet40 |        |    ShapeNet    |        | S3DIS  |
-|:---------------:|:------:|:--------------:|:------:|:------:|
-|      OA(%)      |  93.6  |   Ins. mIoU    |  86.9  |  69.5  |
-|     mAcc(%)     |  91.2  |  Cat. mIoU     | 84.3   |  89.3  |
-|  Inference(ms)  | 38.621 | Inferences(ms) | 32.378 | 97.116 |
-|    Params(M)    | 0.872  |   Params(M)    | 0.723 | 1.366  |
-|    FLOPs(G)     | 0.618  |    FLOPs(G)    | 1.526 | 8.504  |
+|     ModleNet40 |        |    ShapeNet    |        | S3DIS  |   |
+|:---------------:|:------:|:--------------:|:------:|:------:|  :------: |
+|      OA(%)      |  93.6  |   Ins. mIoU    |  86.9  | mIoU   | 69.5  |
+|     mAcc(%)     |  91.2  |  Cat. mIoU     | 84.3   |  OA  | 89.3|
+|  Inference(ms)  | 38.621 | Inferences(ms) | 32.378 |  Inferences(ms)  |97.116 |
+|    Params(M)    | 0.872  |   Params(M)    | 0.723 |  Params(M)  | 1.366|
+|    FLOPs(G)     | 0.618  |    FLOPs(G)    | 1.526 | FLOPs(G)  | 8.504|
 
 
