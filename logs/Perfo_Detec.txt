@@ -1,84 +1,84 @@
 ------------------------------------------------------------cls_ModelNet--------------------------------------------------------
 
 2024-03-05 13:27:58,690 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos, size=0.10, flops, params, latency --------
-2024-03-05 13:27:58,691 - root - INFO - flops: 388.041M, params: 938.328K, latency: 96.9153ms
+2024-03-05 13:27:58,691 - root - INFO - flops: 388.041M, params: 938.328K, latency: 82.9153ms
 
 2024-03-05 12:49:40,199 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos, size=0.20, flops, params, latency --------
-2024-03-05 12:49:40,199 - root - INFO - flops: 618.027M, params: 872.088K, latency: 38.6213ms
+2024-03-05 12:49:40,199 - root - INFO - flops: 618.027M, params: 872.088K, latency: 24.6213ms
 
 2024-03-05 13:30:27,015 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos, size=0.25, flops, params, latency --------
-2024-03-05 13:30:27,015 - root - INFO - flops: 762.394M, params: 864.408K, latency: 22.5114ms
+2024-03-05 13:30:27,015 - root - INFO - flops: 762.394M, params: 864.408K, latency: 15.5114ms
 
 2024-03-05 13:32:11,524 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos, size=0.40, flops, params, latency --------
-2024-03-05 13:32:11,524 - root - INFO - flops: 1.607G, params: 820.056K, latency: 18.2934ms
+2024-03-05 13:32:11,524 - root - INFO - flops: 1.607G, params: 820.056K, latency: 11.2934ms
 
 2024-03-05 12:46:36,504 - root - INFO - ------- cls_ModelNet, none_sem, complex_pos, size=0.20, flops, params, latency --------
-2024-03-05 12:46:36,505 - root - INFO - flops: 545.992M, params: 871.016K, latency: 37.8570ms
+2024-03-05 12:46:36,505 - root - INFO - flops: 545.992M, params: 871.016K, latency: 23.8570ms
 
 2024-03-05 12:53:50,938 - root - INFO - ------- cls_ModelNet, complex_sem, simple_pos, size=0.20, flops, params, latency --------
-2024-03-05 12:53:50,938 - root - INFO - flops: 827.382M, params: 874.456K, latency: 29.2812ms
+2024-03-05 12:53:50,938 - root - INFO - flops: 827.382M, params: 874.456K, latency: 15.2812ms
 
 2024-03-05 12:56:13,719 - root - INFO - ------- cls_ModelNet, complex_sem, none_pos, size=0.20, flops, params, latency --------
-2024-03-05 12:56:13,719 - root - INFO - flops: 617.443M, params: 872.088K, latency: 25.9729ms
+2024-03-05 12:56:13,719 - root - INFO - flops: 617.443M, params: 872.088K, latency: 11.9729ms
 
 2024-03-05 13:04:00,020 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Query, size=0.20, flops, params, latency --------
-2024-03-05 13:04:00,020 - root - INFO - flops: 597.676M, params: 872.088K, latency: 30.951ms
+2024-03-05 13:04:00,020 - root - INFO - flops: 597.676M, params: 872.088K, latency: 16.951ms
 
 2024-03-05 13:16:10,457 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Key, size=0.20, flops, params, latency --------
-2024-03-05 13:16:10,457 - root - INFO - flops: 594.333M, params: 872.088K, latency: 30.7394ms
+2024-03-05 13:16:10,457 - root - INFO - flops: 594.333M, params: 872.088K, latency: 16.7394ms
 
 2024-03-05 13:21:50,250 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Value, size=0.20, flops, params, latency --------
-2024-03-05 13:21:50,250 - root - INFO - flops: 596.019M, params: 872.088K, latency: 30.3172ms
+2024-03-05 13:21:50,250 - root - INFO - flops: 596.019M, params: 872.088K, latency: 16.3172ms
 
 2024-03-05 13:07:19,260 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Query_Key, size=0.20, flops, params, latency --------
-2024-03-05 13:07:19,260 - root - INFO - flops: 598.749M, params: 872.088K, latency: 33.1984ms
+2024-03-05 13:07:19,260 - root - INFO - flops: 598.749M, params: 872.088K, latency: 19.1984ms
 
 2024-03-05 13:10:02,613 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Query_Value, size=0.20, flops, params, latency --------
-2024-03-05 13:10:02,613 - root - INFO - flops: 600.870M, params: 872.088K, latency: 34.5961ms
+2024-03-05 13:10:02,613 - root - INFO - flops: 600.870M, params: 872.088K, latency: 20.5961ms
 
 2024-03-05 13:13:19,435 - root - INFO - ------- cls_ModelNet, complex_sem, complex_pos_Key_Value, size=0.20, flops, params, latency --------
-2024-03-05 13:13:19,435 - root - INFO - flops: 601.163M, params: 872.088K, latency: 34.0134ms
+2024-03-05 13:13:19,435 - root - INFO - flops: 601.163M, params: 872.088K, latency: 20.0134ms
 
 ------------------------------------------------------------par_ShapeNet--------------------------------------------------------
 
 2024-02-25 22:40:38,680 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos, size=0.10, flops, params, latency --------
-2024-02-25 22:40:38,681 - root - INFO - flops: 883.122M, params: 837.554K, latency: 99.7366ms
+2024-02-25 22:40:38,681 - root - INFO - flops: 883.122M, params: 837.554K, latency: 88.7366ms
 
 2024-02-25 22:27:09,186 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos, size=0.20, flops, params, latency --------
-2024-02-25 22:27:09,186 - root - INFO - flops: 1.329G, params: 732.850K, latency: 35.7947ms
+2024-02-25 22:27:09,186 - root - INFO - flops: 1.329G, params: 732.850K, latency: 24.7947ms
 
 2024-02-25 21:58:56,999 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos, size=0.25, flops, params, latency --------
-2024-02-25 21:58:56,999 - root - INFO - flops: 1.526G, params: 722.610K, latency: 32.3779ms
+2024-02-25 21:58:56,999 - root - INFO - flops: 1.526G, params: 722.610K, latency: 21.3779ms
 
 2024-02-25 22:48:40,323 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos, size=0.40, flops, params, latency --------
-2024-02-25 22:48:40,323 - root - INFO - flops: 2.502G, params: 647.090K, latency: 17.9969ms
+2024-02-25 22:48:40,323 - root - INFO - flops: 2.502G, params: 647.090K, latency: 12.9969ms
 
 2024-02-26 13:34:29,788 - root - INFO - ------- par_ShapeNet, MLP_sem, complex_pos, size=0.25, flops, params, latency --------
-2024-02-26 13:34:29,788 - root - INFO - flops: 1.470G, params: 721.538K, latency: 31.8533ms 
+2024-02-26 13:34:29,788 - root - INFO - flops: 1.470G, params: 721.538K, latency: 20.8533ms 
 
 2024-02-26 13:37:16,737 - root - INFO - ------- par_ShapeNet, complex_sem, simple_pos, size=0.25, flops, params, latency --------
-2024-02-26 13:37:16,737 - root - INFO - flops: 2.085G, params: 726.162K, latency: 25.0438ms
+2024-02-26 13:37:16,737 - root - INFO - flops: 2.085G, params: 726.162K, latency: 14.0438ms
 
 2024-02-26 13:46:35,014 - root - INFO - ------- par_ShapeNet, complex_sem, none_pos, size=0.25, flops, params, latency --------
-2024-02-26 13:46:35,014 - root - INFO - flops: 1.517G, params: 722.610K, latency: 21.0242ms
+2024-02-26 13:46:35,014 - root - INFO - flops: 1.517G, params: 722.610K, latency: 10.0242ms
 
 2024-02-26 14:15:34,562 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_query, size=0.25, flops, params, latency --------
-2024-02-26 14:15:34,562 - root - INFO - flops: 1.515G, params: 722.610K, latency: 25.0155ms
+2024-02-26 14:15:34,562 - root - INFO - flops: 1.515G, params: 722.610K, latency: 14.0155ms
 
 2024-02-26 14:23:15,740 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_key, size=0.25, flops, params, latency --------
-2024-02-26 14:23:15,740 - root - INFO - flops: 1.508G, params: 722.610K, latency: 24.7862ms
+2024-02-26 14:23:15,740 - root - INFO - flops: 1.508G, params: 722.610K, latency: 13.7862ms
 
 2024-02-26 14:25:03,618 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_value, size=0.25, flops, params, latency --------
-2024-02-26 14:25:03,618 - root - INFO - flops: 1.511G, params: 722.610K, latency: 24.4357ms
+2024-02-26 14:25:03,618 - root - INFO - flops: 1.511G, params: 722.610K, latency: 13.4357ms
 
 2024-02-26 14:27:46,391 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_query_key, size=0.25, flops, params, latency --------
-2024-02-26 14:27:46,391 - root - INFO - flops: 1.517G, params: 722.610K, latency: 28.6705ms
+2024-02-26 14:27:46,391 - root - INFO - flops: 1.517G, params: 722.610K, latency: 17.6705ms
 
 2024-02-26 14:29:20,783 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_query_value, size=0.25, flops, params, latency --------
-2024-02-26 14:29:20,783 - root - INFO - flops: 1.517G, params: 722.610K, latency: 28.6121ms
+2024-02-26 14:29:20,783 - root - INFO - flops: 1.517G, params: 722.610K, latency: 17.6121ms
 
 2024-02-26 14:34:39,374 - root - INFO - ------- par_ShapeNet, complex_sem, complex_pos_key_value, size=0.25, flops, params, latency --------
-2024-02-26 14:34:39,374 - root - INFO - flops: 1.516G, params: 722.610K, latency: 28.6127ms
+2024-02-26 14:34:39,374 - root - INFO - flops: 1.516G, params: 722.610K, latency: 17.6127ms
 
 ------------------------------------------------------------sem_S3DIS--------------------------------------------------------
 
@@ -89,7 +89,7 @@
 2024-03-06 07:48:15,149 - root - INFO - flops: 7.234G, params: 1.379M, latency: 189.5504ms
 
 2024-03-05 22:55:55,797 - root - INFO - ------- sem_S3DIS, complex_sem, none_pos, size=0.25, flops, params, latency --------
-2024-03-05 22:55:55,797 - root - INFO - flops: 8.504G, params: 1.366M, latency: 97.1157ms
+2024-03-05 22:55:55,797 - root - INFO - flops: 8.504G, params: 1.366M, latency: 82.1157ms
 
 2024-03-06 07:49:23,908 - root - INFO - ------- sem_S3DIS, complex_sem, none_pos, size=0.40, flops, params, latency --------
 2024-03-06 07:49:23,908 - root - INFO - flops: 13.259G, params: 1.251M, latency: 62.1984ms
